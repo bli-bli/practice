@@ -1,0 +1,63 @@
+ @import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+        h5 {
+            color: #4682B4;
+        }
+        .wrap {
+            margin: 100px auto 100px auto;
+            width: 1000px;
+            font-family: 'Jeju Gothic', sans-serif;
+        }
+
+        .img_goods {
+            margin: 50px auto auto auto;
+            width: 800px;
+            height: 460px;
+            background-image: url("../images/diary.jpg");
+            background-size: cover;
+        }
+
+        .goods {
+            margin-left: 50px;
+            padding-left: 50px;
+            padding-bottom: 15px;
+        }
+
+        .title_goods {
+            padding-top: 50px;
+        }
+
+        .title_de {
+            padding-top: 7px;
+        }
+
+        .per_goods {
+            padding-left: 20px;
+        }
+
+        .description_goods {
+            width: 900px;
+            padding-top: 30px;
+        }
+
+        .order {
+            padding-top: 25px;
+        }
+
+        .order_form {
+            width: 400px;
+        }
+
+        .input-right {
+            width: 450px;
+            height: 37px;
+        }
+
+        .btn-order {
+            display: block;
+            padding-top: 20px;
+            padding-bottom: 50px;
+        }
+        .gray-font {
+            color : #708090;
+        }
